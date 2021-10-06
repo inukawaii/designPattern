@@ -1,4 +1,4 @@
-package Ch1_Iterator;
+package Iterator.Example;
 
 public class Main {
   public static void main(String[] args) {

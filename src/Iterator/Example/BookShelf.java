@@ -1,4 +1,4 @@
-package Ch1_Iterator;
+package Iterator.Example;
 
 public class BookShelf implements Aggregate {
   private Book[] books;
