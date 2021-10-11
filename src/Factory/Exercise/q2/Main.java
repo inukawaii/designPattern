@@ -1,7 +1,7 @@
 package Factory.Exercise.q2;
 
-import Factory.Example.framework.*;
-import Factory.Example.idcard.*;
+import Factory.Exercise.q2.framework.*;
+import Factory.Exercise.q2.idcard.*;
 public class Main {
   public static void main(String[] args) {
     Factory factory = new IDCardFactory();
