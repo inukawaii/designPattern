@@ -1,4 +1,4 @@
-package Singleton.Exercise;
+package Singleton.Example;
 
 public class Singleton {
   private static Singleton singleton = new Singleton();
