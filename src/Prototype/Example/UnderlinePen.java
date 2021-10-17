@@ -1,6 +1,6 @@
-package Prototype.Exercise;
+package Prototype.Example;
 
-import Prototype.Exercise.framework.Product;
+import Prototype.Example.framework.Product;
 
 public class UnderlinePen implements Product {
   private char ulchar;

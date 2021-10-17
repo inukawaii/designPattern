@@ -1,4 +1,4 @@
-package Prototype.Exercise.framework;
+package Prototype.Example.framework;
 
 public interface Product extends Cloneable {
   public abstract void use(String s);

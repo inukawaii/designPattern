@@ -1,6 +1,6 @@
-package Prototype.Exercise;
+package Prototype.Example;
 
-import Prototype.Exercise.framework.Product;
+import Prototype.Example.framework.Product;
 
 public class MessageBox implements Product {
   private char decochar;

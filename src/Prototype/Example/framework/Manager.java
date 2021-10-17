@@ -1,4 +1,4 @@
-package Prototype.Exercise.framework;
+package Prototype.Example.framework;
 import java.util.*;
 
 public class Manager {
