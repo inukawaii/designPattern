@@ -1,0 +1,2 @@
+- Stringは普遍のため、文字の中身が頻繁に更新されるような場合はStringBufferのほうがコストが低く済む
+- 文字列結合する場合StringよりもStringBufferのほうが高速であるため
