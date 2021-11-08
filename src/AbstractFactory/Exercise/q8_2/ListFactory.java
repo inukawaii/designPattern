@@ -1,6 +1,7 @@
 package AbstractFactory.Exercise.q8_2;
 
-import AbstractFactory.Exercise.q8_2.*;
+import AbstractFactory.Example.factory.*;
+import AbstractFactory.Example.listfactory.*;
 
 public class ListFactory extends Factory { 
   public Link createLink(String caption, String url) {
@@ -16,6 +17,6 @@ public class ListFactory extends Factory {
   }
 
   public Page createYahooPage() {
-    return new ListPage('Yahoo!', "Yahoo!");
+    return new ListPage("Yahoo!", "Yahoo!");
   }
 }

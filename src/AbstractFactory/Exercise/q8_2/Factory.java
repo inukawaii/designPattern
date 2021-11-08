@@ -1,4 +1,5 @@
 package AbstractFactory.Exercise.q8_2;
+import AbstractFactory.Example.factory.*;
 
 public abstract class Factory {
   public static Factory getFactory(String classname) {
